@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Assignment1">
+      <HintPath>..\..\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
